@@ -30,10 +30,12 @@ function Post1() {
     return (
         <Frame>
             <Head>
-                <title>2 Coisas do JavaScript que você provavelmente não sabe</title>
+                <title>2 Coisas do JavaScript que você (provavelmente) não conhece</title>
             </Head>
+            <Text type='secondary'>Publicado em 21/12/2020 às 19:17 horas</Text>
+            <Divider />
             <Justify>
-                <Title level={3}>2 Coisas do JavaScript que você provavelmente não sabe</Title>
+                <Title level={3}>2 Coisas do JavaScript que você (provavelmente) não conhece</Title>
             </Justify>
             <Divider />
             <Justify>
@@ -42,7 +44,7 @@ function Post1() {
                     É uma linguagem odiada por alguns, mas amada por muitos... se você está lendo isso provavelmente você se encaixa no segundo grupo.
                 </Paragraph>
                 <Paragraph style={{ lineHeight: '2.0em' }}>
-                    Hoje eu separai 2 coisas que você <del>(provavelmente)</del> não sabe sobre JavaScript.
+                    Sendo assim, vou falar um pouco sobre 2 coisas que você talvez não conheça do JavaScript.
                 </Paragraph>
             </Justify>
 
