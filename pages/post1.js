@@ -40,7 +40,7 @@ function Post1() {
             <Divider />
             <Justify>
                 <Paragraph style={{ lineHeight: '2.0em' }}>
-                    Hoje em dia JavaScript é uma das linguagens mais usadas, no desenvolvimento web e até em aplicações nativas.
+                    Hoje em dia JavaScript é uma das linguagens mais usadas no desenvolvimento web e até em aplicações nativas.
                     É uma linguagem odiada por alguns, mas amada por muitos... se você está lendo isso provavelmente você se encaixa no segundo grupo.
                 </Paragraph>
                 <Paragraph style={{ lineHeight: '2.0em' }}>
